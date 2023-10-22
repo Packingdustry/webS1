@@ -1,0 +1,37 @@
+section{
+    display: flex;
+    justify-content: space-around;
+}
+
+footer{
+    align-content: left;
+}
+
+div{
+    border-radius: 15px ;
+    border-style: solid;
+    border-color: darkgray;
+    background-color: lightsteelblue;
+    width: 30%;
+    
+}
+
+div h2{
+    text-align: center;
+}
+
+footer{
+    
+    float: right;
+    height: 35px;
+    margin: 0px 50px 0px 0px;
+    color: #000;
+    text-align: right;
+    padding: 10px 30px;
+    width: 180px;
+    
+}
+
+header{
+    background-color: lightsteelblue;
+}
